@@ -1,0 +1,16 @@
+{
+    "name": "alunograu/aula_8_composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Alunograu\\Aula8Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anderson Peres",
+            "email": "jpdandersonalencar@gmail.com"
+        }
+    ],
+    "require": {}
+}
